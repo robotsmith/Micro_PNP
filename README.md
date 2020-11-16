@@ -43,6 +43,8 @@ This project is still a project a work in progress.
 - 1x 600x440mm plywood 10mm
 - 3D printed parts
 
+## Software
+This machine use [OpenPnp](https://openpnp.org/) (thanks a lot for that nice work by the way!)
 ## Goal
 This has no commercial purpose, it is only a fun tool.
 
