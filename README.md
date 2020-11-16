@@ -1,11 +1,11 @@
-# MICRO Pick and Place (PNP) machine PROJECT 
+# Micro 3D printed Pick and Place (PNP) machine 
 > Based on 3D printer parts and 2020 aluminium profile
 
 Build from 2020 profile in order to make a chassis of 440 x 600 x 240 mm and working zone of 420 x 280 mm
 <img src = "Media/PNP_machine4.jpg" width = 500>
 
 This project is still a project a work in progress.
-This has no commercial purpose, it is only a fun tool.
+
 
 ## BOM
 - Printed parts
@@ -43,7 +43,8 @@ This has no commercial purpose, it is only a fun tool.
 - 1x 600x440mm plywood 10mm
 - 3D printed parts
 
-
+## Goal
+This has no commercial purpose, it is only a fun tool.
 
 ## License
 
