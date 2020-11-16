@@ -50,3 +50,5 @@ This has no commercial purpose, it is only a fun tool.
 
 Distributed under the GPL license. See ``LICENSE`` for more information.
 
+## Disclamer
+This product is provided as-is. While care has been taken to design a safe product, it is the user's responsibility to make sure precautions are taken to prevent damage or injury when using this product. This includes adhering to all warnings provided. By using this product, the user accepts responsibility to bear all liabilities from any damage or injury arising from the use of this product.
