@@ -5,7 +5,7 @@ Build from 2020 profile in order to make a chassis of 440 x 600 x 240 mm and wor
 <img src = "Media/PNP_machine4.jpg" width = 500>
 
 This project is still a project a work in progress.
-
+This has no commercial purpose, it is only a fun tool.
 
 ## BOM
 - Printed parts
